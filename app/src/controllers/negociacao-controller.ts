@@ -1,3 +1,4 @@
+import { domInject } from '../decorators/injetor-dom.js';
 import { inspeciona } from '../decorators/inspeciona.js';
 import { logarTempoExecucao } from '../decorators/logar-tempo-execucao.js';
 import { DiasDaSemana } from '../enums/dias-da-semana.js';
