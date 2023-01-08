@@ -60,4 +60,8 @@ export class NegociacaoController {
         this.negociacoesView.update(this.negociacoes);
         this.mensagemView.update('Negociação adicionada com sucesso');
     }
+
+    public importaDados(): void {
+
+    }
 }
